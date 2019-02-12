@@ -1,6 +1,5 @@
 function [M, mu1, Sigma1, mixmat1, prior1, transmat1] = estimated_hmm(data, Q, max_num_mix_comp)
-%  M = aic(data, max_num_mix_comp)
- M=1;
+ M = aic(data, max_num_mix_comp)
  %M = bic(data, max_num_mix_comp);
  trial=1;
  [prior0, transmat0, mixmat0, mu0, Sigma0] =  init_mhmm(data, Q, M, 'diag');
