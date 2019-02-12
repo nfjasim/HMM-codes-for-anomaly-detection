@@ -1,4 +1,5 @@
 function P = DMarkov_machine(X, NS, D)
+% code written by Najah Ghalyan
 % X is a symbol sequence
 % NS = Alphabet size
 % D = Markov depth
