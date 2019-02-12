@@ -1,4 +1,5 @@
 function xpmin = mep_partition(y, NS)
+% code written by Najah Ghalyan
     NP=NS-1;
     x1 = sort(y);
     T=size(y, 2); 
