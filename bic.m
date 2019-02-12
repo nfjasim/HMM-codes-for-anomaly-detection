@@ -1,4 +1,5 @@
 function [numComponents] = bic(data, max_num_mix_comp)
+% code written by Najah Ghalyan
 BIC=zeros(1,max_num_mix_comp);
 gmmodels=cell(1,max_num_mix_comp);
 options=statset('MaxIter',500);
