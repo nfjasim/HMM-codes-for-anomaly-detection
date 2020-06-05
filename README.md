@@ -1,3 +1,5 @@
 # HMM-codes-for-anomaly-detection
 The Matlab code "KMeans_MEP_HMML_HMMD.m" was written for anomaly detection using short-length sensor time series via Hidden Markov Models and Symbolic Time Series Analysis, with application to low-delay detection of thermoacoustic instabilities (TAI) in combustion systems.
 The code uses "Hidden Markov Model (HMM) Toolbox for Matlab" written by Kevin Murphy available for free at https://www.cs.ubc.ca/~murphyk/Software/HMM/hmm.html according to the license  https://opensource.org/licenses/mit-license.php
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
